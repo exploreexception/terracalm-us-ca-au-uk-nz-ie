@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/terracalm-us-ca-au-uk-nz-ie/sitemap.xml
